@@ -47,7 +47,7 @@ const MenuServices = () => {
                             <Film className="w-12 h-12" />
                         </div>
                         <h3 className="text-2xl font-semibold text-center">Motion design</h3>
-                        <p className="text-lg text-center">Conception d&apos;animations et de vidéos dynamiques pour capter l'attention de votre audience et transmettre vos messages de manière impactante.</p>
+                        <p className="text-lg text-center">Conception d&apos;animations et de vidéos dynamiques pour capter l&apos;attention de votre audience et transmettre vos messages de manière impactante.</p>
                     </div>
                 </article>
                 <article className="bg-white shadow-md rounded-xl overflow-hidden">
