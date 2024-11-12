@@ -1,8 +1,6 @@
 import daniel from '@/public/daniel.jpg'
 import { Avatar,AvatarImage } from '../ui/avatar';
-import { motion, useAnimation } from 'framer-motion';
-import { useEffect } from 'react';
-import { useInView } from 'react-intersection-observer';
+
 import Image from 'next/image'
 
 interface AboutProps {
