@@ -11,7 +11,7 @@ const MenuServices = () => {
                             <Palette className="w-12 h-12" />
                         </div>
                         <h3 className="text-2xl font-semibold text-center">Identité visuelle et logo</h3>
-                        <p className="text-lg text-center">Création d'une identité visuelle unique qui reflète l\'essence de votre marque, incluant la conception de logos distinctifs et mémorables.</p>
+                        <p className="text-lg text-center">Création d'une identité visuelle unique qui reflète l&apos;essence de votre marque, incluant la conception de logos distinctifs et mémorables.</p>
                     </div>
                 </article>
                 <article className="bg-white shadow-md rounded-2xl overflow-hidden">
@@ -38,7 +38,7 @@ const MenuServices = () => {
                             <PenTool className="w-12 h-12" />
                         </div>
                         <h3 className="text-2xl font-semibold text-center">Illustrations personnalisées</h3>
-                        <p className="text-lg text-center">Réalisation d\'illustrations sur mesure pour enrichir vos projets visuels, qu\'il s\'agisse de dessins, de graphiques ou d\'icônes.</p>
+                        <p className="text-lg text-center">Réalisation d&apos;illustrations sur mesure pour enrichir vos projets visuels, qu&apos;il s&apos;agisse de dessins, de graphiques ou d&apos;icônes.</p>
                     </div>
                 </article>
                 <article className="bg-white shadow-md rounded-2xl overflow-hidden">
@@ -56,7 +56,7 @@ const MenuServices = () => {
                             <Box className="w-12 h-12" />
                         </div>
                         <h3 className="text-2xl font-semibold text-center">Packaging créatif</h3>
-                        <p className="text-lg text-center">Développement de designs d\'emballage innovants et attrayants qui mettent en valeur vos produits et attirent les consommateurs.</p>
+                        <p className="text-lg text-center">Développement de designs d&apos;emballage innovants et attrayants qui mettent en valeur vos produits et attirent les consommateurs.</p>
                     </div>
                 </article>
             </div>
