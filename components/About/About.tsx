@@ -1,5 +1,5 @@
 import daniel from '@/public/daniel.jpg'
-import { Avatar,AvatarImage } from '../ui/avatar';
+import { Avatar} from '../ui/avatar';
 
 import Image from 'next/image'
 
@@ -10,7 +10,7 @@ interface AboutProps {
     imageUrl: string;
 }
 
-const About: React.FC<AboutProps> = ({ chefName, description, additionalInfo, imageUrl }) => {
+const About: React.FC<AboutProps> = ({ chefName }) => {
  
   return (
     <section className="flex flex-col  items-center justify-center my-12 px-4 max-w-4xl mx-auto">

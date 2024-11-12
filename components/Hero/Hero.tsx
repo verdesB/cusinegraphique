@@ -1,6 +1,5 @@
 import AnimatedText from "../AnimatedText/AnimatedText";
-import test from '@/public/tetetest.webp'
-import Image from "next/image";
+
 interface HeroProps {
   title: string;
   subtitle?: string;
