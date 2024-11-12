@@ -40,6 +40,7 @@ const Hero: React.FC<HeroProps> = ({ title, subtitle }) => {
     /> */}
     </section>
   );
+  
 };
 
 export default Hero; 
