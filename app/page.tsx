@@ -1,6 +1,8 @@
 import Hero from '@/components/Hero/Hero';
 import About from '@/components/About/About';
 import Recepies from '@/components/Recepies/Recepies';
+import MenuServices from '@/components/MenuServices/MenuServices';
+import Projects from '@/components/Projects/Projects';
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
         imageUrl="/public/daniel.jpg"
       />
       <Recepies />
+      <MenuServices />
+      <Projects />
     </main>
   );
 }
